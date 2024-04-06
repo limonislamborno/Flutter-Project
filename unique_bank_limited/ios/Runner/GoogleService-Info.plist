@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA4BDDixReD9n6_ZN93_6QyzvRIRUM_Xv4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>982066130547</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.limonislamborno.uniqueBankLimited</string>
+	<key>PROJECT_ID</key>
+	<string>bankingmanagementsystem-1bdcf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bankingmanagementsystem-1bdcf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:982066130547:ios:2740cbf56d704f4cfe8406</string>
+</dict>
+</plist>

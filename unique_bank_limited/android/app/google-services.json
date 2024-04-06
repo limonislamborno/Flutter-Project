@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982066130547",
+    "project_id": "bankingmanagementsystem-1bdcf",
+    "storage_bucket": "bankingmanagementsystem-1bdcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982066130547:android:e362fec53eb0ab5afe8406",
+        "android_client_info": {
+          "package_name": "com.limonislamborno.unique_bank_limited"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_cS-IcJWsnvPYSy6CpYrWPeJkhPqZQ_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
